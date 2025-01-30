@@ -10,7 +10,7 @@ export function StatsCards() {
           <Users className="h-4 w-4 text-muted-foreground" />
         </CardHeader>
         <CardContent>
-          <div className="text-2xl font-bold">1,234</div>
+          <div className="text-2xl font-bold">100000000</div>
           <p className="text-xs text-muted-foreground">+12 from last month</p>
         </CardContent>
       </Card>
